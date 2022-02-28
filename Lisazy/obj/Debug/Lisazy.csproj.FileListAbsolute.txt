@@ -1,0 +1,9 @@
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\bin\Debug\Lisazy.exe.config
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\bin\Debug\Lisazy.exe
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\bin\Debug\Lisazy.pdb
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\obj\Debug\Lisazy.csprojAssemblyReference.cache
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\obj\Debug\Lisazy.frmMain.resources
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\obj\Debug\Lisazy.Properties.Resources.resources
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\obj\Debug\Lisazy.csproj.GenerateResource.cache
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\obj\Debug\Lisazy.exe
+c:\Users\flash\Downloads\@Работы_студентов\Lisazy (1)\Lisazy\Lisazy\obj\Debug\Lisazy.pdb
